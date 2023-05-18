@@ -3,7 +3,7 @@ description: Web3 | AI
 layout: landing
 ---
 
-# About Me
+# 🤝 Intro
 
 <figure><img src=".gitbook/assets/1684191260274.jpeg" alt="" width="382"><figcaption></figcaption></figure>
 
