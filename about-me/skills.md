@@ -2,11 +2,11 @@
 
 ### Languages
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |                                                              |   |
+| - | ------------------------------------------------------------ | - |
+|   | Micro-service Design, Async & Await, Flask, Quart, Pub/Sub,  |   |
+|   |                                                              |   |
+|   |                                                              |   |
 
 ### Databases
 
