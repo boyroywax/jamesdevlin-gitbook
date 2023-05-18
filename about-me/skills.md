@@ -2,11 +2,11 @@
 
 ### Languages
 
-|   |                                                              |   |
-| - | ------------------------------------------------------------ | - |
-|   | Micro-service Design, Async & Await, Flask, Quart, Pub/Sub,  |   |
-|   |                                                              |   |
-|   |                                                              |   |
+|                                          |                                                              |   |
+| :--------------------------------------: | ------------------------------------------------------------ | - |
+| ![](../.gitbook/assets/python.svg)Python | Micro-service Design, Async & Await, Flask, Quart, Pub/Sub,  |   |
+|                                          |                                                              |   |
+|                                          |                                                              |   |
 
 ### Databases
 
