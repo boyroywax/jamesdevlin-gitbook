@@ -3,7 +3,7 @@
 ## About Me
 
 * [🤝 Intro](README.md)
-* [💻 Skills](about-me/skills.md)
+* [🦸♀ Skills](about-me/skills.md)
 
 ## Portfolio
 
