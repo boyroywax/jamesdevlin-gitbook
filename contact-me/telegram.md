@@ -4,4 +4,4 @@ description: Catch Me Anytime!
 
 # 📨 Telegram
 
-{% embed url="https://t.me/jamesdevlin" fullWidth="true" %}
+{% embed url="https://t.me/jamesdevlin" fullWidth="false" %}
