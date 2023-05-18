@@ -11,6 +11,6 @@
 
 ## Contact Me
 
-* [LinkedIn](contact-me/linkedin.md)
+* [🖇 LinkedIn](contact-me/linkedin.md)
 * [📨 Telegram](contact-me/telegram.md)
 * [🪂 Quick Meeting](contact-me/quick-meeting.md)

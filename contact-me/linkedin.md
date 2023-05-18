@@ -2,6 +2,6 @@
 description: Connect with Me!
 ---
 
-# LinkedIn
+# 🖇 LinkedIn
 
-{% embed url="https://www.linkedin.com/in/james-devlin-b085a2141/" fullWidth="true" %}
+{% embed url="https://www.linkedin.com/in/james-devlin-b085a2141/" fullWidth="false" %}
